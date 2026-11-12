@@ -1,0 +1,17 @@
+# Maven build output
+target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Node / Newman (Part 2)
+node_modules/
+newman/
+
+# OS files
+.DS_Store
+
+# Local secrets
+.env
